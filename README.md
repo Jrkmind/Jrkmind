@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jrkmind
-- 👀 I’m interested in presenting work.
-- 🌱 I’m currently learning business chinese.
-- 💞️ I’m looking to collaborate on around the world.
-- 📫 How to reach me email>630105020063@dpu.ac.th
+- 👀 I’m interested in
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me 
 
 <!---
 Jrkmind/Jrkmind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
